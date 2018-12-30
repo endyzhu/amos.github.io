@@ -3,11 +3,11 @@
   <title>Amos技术博客</title>
   
   
-  <link href="/atom.xml" rel="self"/>
+  <link href="/amos.github.io/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://endyzhu.github.io/amos.github.io/"/>
   <updated>2018-12-27T12:12:13.697Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://endyzhu.github.io/amos.github.io/</id>
   
   <author>
     <name>Amos Zhu</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/12/27/hello-world/"/>
-    <id>http://yoursite.com/2018/12/27/hello-world/</id>
+    <link href="https://endyzhu.github.io/amos.github.io/2018/12/27/hello-world/"/>
+    <id>https://endyzhu.github.io/amos.github.io/2018/12/27/hello-world/</id>
     <published>2018-12-27T12:12:13.696Z</published>
     <updated>2018-12-27T12:12:13.697Z</updated>
     
