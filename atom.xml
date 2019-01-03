@@ -6,7 +6,7 @@
   <link href="/amos.github.io/atom.xml" rel="self"/>
   
   <link href="https://endyzhu.github.io/amos.github.io/"/>
-  <updated>2018-12-27T12:12:13.697Z</updated>
+  <updated>2019-01-03T13:07:18.432Z</updated>
   <id>https://endyzhu.github.io/amos.github.io/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Java动态代理</title>
+    <link href="https://endyzhu.github.io/amos.github.io/2019/01/03/Java%E5%8A%A8%E6%80%81%E4%BB%A3%E7%90%86/"/>
+    <id>https://endyzhu.github.io/amos.github.io/2019/01/03/Java动态代理/</id>
+    <published>2019-01-03T11:57:51.000Z</published>
+    <updated>2019-01-03T13:07:18.432Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;什么是动态代理？&lt;br&gt;要理解动态代理的话，先了解下什么是代理，打个比方，比如说你要去处理某件事情，这件事情很急，但是你又抽不出时间，你可以请别人帮你处理下，这里的你自己就是被代理方，别人就是代理方，这个就是代理，代理你去做某件事。&lt;/p
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Java" scheme="https://endyzhu.github.io/amos.github.io/tags/Java/"/>
+    
+      <category term="动态代理" scheme="https://endyzhu.github.io/amos.github.io/tags/%E5%8A%A8%E6%80%81%E4%BB%A3%E7%90%86/"/>
+    
+      <category term="CGLIB" scheme="https://endyzhu.github.io/amos.github.io/tags/CGLIB/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
